@@ -12,6 +12,12 @@ Please download the file from the URL below.
 
 https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
 
+# How to Download DL Data
+
+Please download the file from the URL below.
+
+https://www.dropbox.com/scl/fo/fis9iynt4x0yevwmybme2/AAXtOBj1tJX1HG79UkiZdtA?rlkey=5vplrmlxn5y769jebipwk3slj&e=2&dl=0
+
 # How to Use
 
 ## codes
