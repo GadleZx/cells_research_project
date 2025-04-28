@@ -25,7 +25,7 @@ Process the original image (black image) so that sam2 can be used.
 python retouch.py --input_dir "/home/umelab/workspace/Data/250204/VH+soil/3h/x60/Image_Sequence_1-FL" --output_dir "/home/umelab/workspace/codes/retouch_results"
 ```
 
-## sam2_codes
+## sam2_code
 
 amg_pix.py
 
